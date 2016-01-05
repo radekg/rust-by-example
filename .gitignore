@@ -1,3 +1,4 @@
 *
 !.gitignore
 !*.rs
+!README.md
